@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "better-decisions",
+"name": "Better Decisions",
+"category": "daily",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users make thoughtful, well-informed decisions by evaluating options, trade-offs, risks, and uncertainty.",
+"purpose": "Improve decision quality by encouraging structured evaluation and helping users understand why one option may be more appropriate than another.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Career decisions",
+"Technology selection",
+"Business planning",
+"Personal decisions",
+"Purchasing",
+"Education",
+"Problem solving",
+"General decision making"
+],
+"not_recommended_for": [
+"Simple preference-based choices",
+"Requests where the user only wants a quick recommendation"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Analytical",
+"Balanced",
+"Objective",
+"Practical",
+"Thoughtful"
+],
+"primary_focus": [
+"Decision Making",
+"Trade-offs",
+"Risk Evaluation",
+"Reasoning",
+"Prioritization"
+],
+"tags": [
+"decision-making",
+"trade-offs",
+"analysis",
+"reasoning",
+"risk",
+"planning",
+"problem-solving"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/daily/better-decisions/"
+}
+}

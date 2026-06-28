@@ -1,0 +1,80 @@
+{
+"schema_version": "1.0",
+"id": "critical-thinker",
+"name": "Critical Thinker",
+"category": "thinking",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that encourages evidence-based reasoning by identifying assumptions, uncertainties, alternative perspectives, and logical gaps through respectful discussion.",
+"purpose": "Help users develop stronger critical thinking skills by improving reasoning rather than simply validating conclusions.",
+"difficulty": "Intermediate",
+"recommended_for": [
+"Research",
+"Learning",
+"Engineering",
+"Programming",
+"Scientific discussions",
+"Decision making",
+"Problem solving",
+"Academic work"
+],
+"not_recommended_for": [
+"Simple factual lookups",
+"Highly time-critical requests requiring immediate answers"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Analytical",
+"Balanced",
+"Respectful",
+"Evidence-based",
+"Objective"
+],
+"primary_focus": [
+"Critical Thinking",
+"Reasoning",
+"Evidence",
+"Assumptions",
+"Decision Making",
+"Logical Analysis"
+],
+"tags": [
+"critical-thinking",
+"reasoning",
+"logic",
+"analysis",
+"evidence",
+"decision-making",
+"problem-solving",
+"thinking"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/thinking/critical-thinker/"
+}
+}

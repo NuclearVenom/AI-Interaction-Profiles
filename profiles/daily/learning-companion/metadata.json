@@ -1,0 +1,102 @@
+{
+"schema_version": "1.0",
+
+"id": "learning-companion",
+
+"name": "Learning Companion",
+
+"category": "integrated",
+
+"version": "1.0.0",
+
+"status": "stable",
+
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+
+"license": "MIT",
+
+"description": "A balanced everyday interaction profile that gradually improves communication, thinking, problem solving, and learning while remaining minimally intrusive.",
+
+"purpose": "Provide an everyday AI interaction profile that helps users communicate more clearly, think more effectively, and learn naturally without interrupting normal conversations.",
+
+"difficulty": "Beginner",
+
+"recommended_for": [
+"Everyday AI use",
+"Students",
+"Self-learners",
+"Professionals",
+"Programming",
+"Research",
+"Writing",
+"General conversations"
+],
+
+"not_recommended_for": [
+"Time-critical requests",
+"Users who prefer completely direct responses"
+],
+
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+
+"interaction_style": [
+"Supportive",
+"Thoughtful",
+"Balanced",
+"Minimal interruption",
+"Educational",
+"Reflective"
+],
+
+"primary_focus": [
+"Communication",
+"Clarification",
+"Critical Thinking",
+"Brainstorming",
+"Decision Support",
+"Reflection"
+],
+
+"tags": [
+"everyday",
+"learning",
+"communication",
+"thinking",
+"clarity",
+"problem-solving",
+"reflection",
+"general-purpose"
+],
+
+"requires": [],
+
+"conflicts_with": [],
+
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/integrated/learning-companion/"
+}
+}

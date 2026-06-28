@@ -1,0 +1,76 @@
+{
+"schema_version": "1.0",
+"id": "better-questions",
+"name": "Better Questions",
+"category": "communication",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users naturally ask clearer, more complete, and more effective questions through gentle guidance.",
+"purpose": "Encourage users to develop stronger questioning habits by identifying small pieces of missing context that meaningfully improve AI responses.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Everyday AI use",
+"Students",
+"Professionals",
+"Programming",
+"Research",
+"Writing",
+"General conversations"
+],
+"not_recommended_for": [
+"Highly time-critical requests where immediate answers are preferred"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Supportive",
+"Thoughtful",
+"Minimal interruption",
+"Context-aware",
+"Educational"
+],
+"primary_focus": [
+"Question Quality",
+"Context",
+"Objectives",
+"Constraints",
+"Clarification"
+],
+"tags": [
+"questions",
+"communication",
+"clarity",
+"context",
+"learning",
+"prompting",
+"general-purpose"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/communication/better-questions/"
+}
+}

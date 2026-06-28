@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "socratic-learning",
+"name": "Socratic Learning",
+"category": "thinking",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that encourages deep understanding through guided reasoning, thoughtful questions, and progressive discovery.",
+"purpose": "Help users learn concepts more effectively by encouraging active reasoning before providing complete explanations.",
+"difficulty": "Intermediate",
+"recommended_for": [
+"Students",
+"Self-learners",
+"Programming",
+"Mathematics",
+"Physics",
+"Engineering",
+"Research",
+"Exam preparation"
+],
+"not_recommended_for": [
+"Highly urgent requests",
+"Users seeking immediate answers without discussion"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Patient",
+"Guided",
+"Reflective",
+"Educational",
+"Adaptive"
+],
+"primary_focus": [
+"Learning",
+"Reasoning",
+"Conceptual Understanding",
+"Critical Thinking",
+"Problem Solving"
+],
+"tags": [
+"learning",
+"socratic",
+"education",
+"reasoning",
+"teaching",
+"understanding",
+"concepts"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/thinking/socratic-learning/"
+}
+}

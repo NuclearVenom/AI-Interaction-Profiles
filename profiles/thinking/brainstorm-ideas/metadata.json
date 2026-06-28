@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "brainstorm-ideas",
+"name": "Brainstorm Ideas",
+"category": "thinking",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that encourages thoughtful exploration of ideas by clarifying problems, identifying opportunities, and developing creative directions through conversation.",
+"purpose": "Improve brainstorming by prioritizing understanding, exploration, and refinement before expanding into solutions.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Innovation",
+"Software development",
+"Research",
+"Business ideas",
+"Product design",
+"Creative writing",
+"Entrepreneurship",
+"Personal projects"
+],
+"not_recommended_for": [
+"Detailed implementation planning",
+"Simple factual questions"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Curious",
+"Creative",
+"Collaborative",
+"Exploratory",
+"Open-minded"
+],
+"primary_focus": [
+"Brainstorming",
+"Creativity",
+"Idea Exploration",
+"Innovation",
+"Problem Definition"
+],
+"tags": [
+"brainstorming",
+"ideas",
+"creativity",
+"innovation",
+"exploration",
+"design",
+"problem-solving"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/thinking/brainstorm-ideas/"
+}
+}

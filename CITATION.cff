@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository in research, writing, or teaching, please cite it as below."
+title: "AI Interaction Profiles"
+version: "1.0.0"
+date-released: "2026-06-28"
+abstract: "A documentation-first proof-of-concept exploring how reusable Interaction Profiles may improve conversations with existing large language models by shaping interaction behavior."
+authors:
+  - family-names: "Ghosh"
+    given-names: "Ranasurya"
+license: "MIT"
+keywords:
+  - "human-ai interaction"
+  - "large language models"
+  - "personalization"
+  - "interaction design"
+  - "conversational behavior"

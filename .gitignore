@@ -1,0 +1,27 @@
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log

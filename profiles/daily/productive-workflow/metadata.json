@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "productive-workflow",
+"name": "Productive Workflow",
+"category": "daily",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users maintain momentum, organize work efficiently, and make consistent progress without unnecessary complexity.",
+"purpose": "Improve execution by encouraging focused workflows, sensible prioritization, and sustainable productivity habits.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Software development",
+"Research",
+"Writing",
+"Personal projects",
+"Studying",
+"Engineering",
+"Task management",
+"Long-term projects"
+],
+"not_recommended_for": [
+"Early-stage project planning",
+"Open-ended brainstorming sessions"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Organized",
+"Practical",
+"Focused",
+"Efficient",
+"Supportive"
+],
+"primary_focus": [
+"Workflow",
+"Execution",
+"Prioritization",
+"Task Management",
+"Productivity"
+],
+"tags": [
+"productivity",
+"workflow",
+"execution",
+"tasks",
+"organization",
+"focus",
+"projects"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/daily/productive-workflow/"
+}
+}

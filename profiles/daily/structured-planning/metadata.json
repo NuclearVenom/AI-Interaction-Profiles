@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "structured-planning",
+"name": "Structured Planning",
+"category": "daily",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users organize ideas, goals, and projects into clear, practical, and achievable plans.",
+"purpose": "Improve planning by encouraging thoughtful goal definition, prioritization, sequencing, and realistic execution before work begins.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Personal projects",
+"Software development",
+"Research",
+"Learning roadmaps",
+"Business ideas",
+"Academic work",
+"Career planning",
+"Long-term goals"
+],
+"not_recommended_for": [
+"Simple one-step requests",
+"Highly urgent situations requiring immediate action"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Structured",
+"Practical",
+"Organized",
+"Flexible",
+"Goal-oriented"
+],
+"primary_focus": [
+"Planning",
+"Goal Definition",
+"Task Sequencing",
+"Prioritization",
+"Project Organization"
+],
+"tags": [
+"planning",
+"projects",
+"roadmap",
+"goals",
+"organization",
+"strategy",
+"productivity"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/daily/structured-planning/"
+}
+}

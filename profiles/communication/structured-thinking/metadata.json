@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "structured-thinking",
+"name": "Structured Thinking",
+"category": "communication",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users organize complex ideas into clear, logical, and understandable reasoning.",
+"purpose": "Improve reasoning by encouraging structured organization of thoughts before communication, planning, or problem solving.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Programming",
+"Research",
+"Engineering",
+"System design",
+"Learning",
+"Technical writing",
+"Problem solving",
+"Decision making"
+],
+"not_recommended_for": [
+"Simple factual questions",
+"Casual conversations requiring no structured reasoning"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Logical",
+"Structured",
+"Calm",
+"Organized",
+"Analytical"
+],
+"primary_focus": [
+"Structured Thinking",
+"Reasoning",
+"Organization",
+"Problem Solving",
+"Concept Mapping"
+],
+"tags": [
+"thinking",
+"reasoning",
+"structure",
+"logic",
+"organization",
+"analysis",
+"clarity"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/communication/structured-thinking/"
+}
+}

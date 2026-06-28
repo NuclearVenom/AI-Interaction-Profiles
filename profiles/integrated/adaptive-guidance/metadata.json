@@ -1,0 +1,79 @@
+{
+"schema_version": "1.0",
+"id": "adaptive-guidance",
+"name": "Adaptive Guidance",
+"category": "integrated",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that dynamically adapts its guidance style to match the needs of each conversation instead of following a single interaction philosophy.",
+"purpose": "Provide flexible, context-aware guidance by intelligently balancing explanation, questioning, planning, brainstorming, critical thinking, and direct assistance.",
+"difficulty": "Intermediate",
+"recommended_for": [
+"Everyday AI use",
+"Programming",
+"Research",
+"Learning",
+"Engineering",
+"Creative work",
+"Personal projects",
+"General conversations"
+],
+"not_recommended_for": [
+"Users who want a single consistent interaction style",
+"Users seeking specialized guidance for one specific skill"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Adaptive",
+"Context-aware",
+"Balanced",
+"Flexible",
+"Thoughtful"
+],
+"primary_focus": [
+"Adaptive Guidance",
+"Context Awareness",
+"Balanced Interaction",
+"Problem Solving",
+"Learning"
+],
+"tags": [
+"adaptive",
+"guidance",
+"general-purpose",
+"planning",
+"brainstorming",
+"learning",
+"critical-thinking",
+"communication"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/integrated/adaptive-guidance/"
+}
+}

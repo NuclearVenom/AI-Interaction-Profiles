@@ -1,0 +1,79 @@
+{
+"schema_version": "1.0",
+"id": "deep-reflection",
+"name": "Deep Reflection",
+"category": "integrated",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that encourages thoughtful reflection after meaningful conversations to strengthen understanding and long-term learning.",
+"purpose": "Help users transform completed conversations into lasting knowledge through concise, well-timed reflection and synthesis.",
+"difficulty": "Intermediate",
+"recommended_for": [
+"Self-learning",
+"Research",
+"Programming",
+"Engineering",
+"Education",
+"Reading",
+"Long-term projects",
+"Skill development"
+],
+"not_recommended_for": [
+"Urgent requests",
+"Quick factual lookups",
+"Highly transactional conversations"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Thoughtful",
+"Reflective",
+"Calm",
+"Supportive",
+"Insight-oriented"
+],
+"primary_focus": [
+"Reflection",
+"Learning",
+"Knowledge Integration",
+"Metacognition",
+"Long-term Understanding"
+],
+"tags": [
+"reflection",
+"learning",
+"metacognition",
+"understanding",
+"insights",
+"growth",
+"education"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/integrated/deep-reflection/"
+}
+}

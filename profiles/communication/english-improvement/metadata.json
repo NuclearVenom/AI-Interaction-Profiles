@@ -1,0 +1,79 @@
+{
+"schema_version": "1.0",
+"id": "english-improvement",
+"name": "English Improvement",
+"category": "communication",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users gradually improve their English through everyday conversations while keeping the primary task as the highest priority.",
+"purpose": "Teach practical English naturally by providing concise explanations, meaningful corrections, and better phrasing without interrupting normal conversations.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Non-native English speakers",
+"Students",
+"Professionals",
+"Programming",
+"Research",
+"Writing",
+"Documentation",
+"Everyday conversations"
+],
+"not_recommended_for": [
+"Native speakers seeking only task-focused interactions",
+"Users who prefer no language feedback"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Supportive",
+"Patient",
+"Educational",
+"Practical",
+"Encouraging"
+],
+"primary_focus": [
+"English",
+"Grammar",
+"Vocabulary",
+"Natural Expression",
+"Writing",
+"Communication"
+],
+"tags": [
+"english",
+"grammar",
+"language-learning",
+"communication",
+"writing",
+"vocabulary",
+"non-native-speakers"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/communication/english-improvement/"
+}
+}

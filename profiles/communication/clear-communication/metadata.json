@@ -1,0 +1,77 @@
+{
+"schema_version": "1.0",
+"id": "clear-communication",
+"name": "Clear Communication",
+"category": "communication",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that helps users express ideas more clearly while preserving their original intent, writing style, and voice.",
+"purpose": "Improve the clarity, structure, and readability of communication without focusing on grammar or changing the user's natural style.",
+"difficulty": "Beginner",
+"recommended_for": [
+"Everyday AI use",
+"Writing",
+"Programming",
+"Research",
+"Documentation",
+"Emails",
+"Presentations",
+"General conversations"
+],
+"not_recommended_for": [
+"Users primarily seeking grammar correction"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Supportive",
+"Clear",
+"Constructive",
+"Minimal intervention",
+"Natural"
+],
+"primary_focus": [
+"Communication",
+"Clarity",
+"Structure",
+"Readability",
+"Expression"
+],
+"tags": [
+"communication",
+"clarity",
+"writing",
+"expression",
+"readability",
+"documentation",
+"general-purpose"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/communication/clear-communication/"
+}
+}

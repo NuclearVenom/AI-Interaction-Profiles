@@ -1,0 +1,78 @@
+{
+"schema_version": "1.0",
+"id": "research-guidance",
+"name": "Research Guidance",
+"category": "thinking",
+"version": "1.0.0",
+"status": "stable",
+"author": {
+"name": "Ranasurya Ghosh",
+"github": "https://github.com/NuclearVenom"
+},
+"license": "MIT",
+"description": "An interaction profile that encourages systematic investigation through evidence-based reasoning, intellectual honesty, and structured exploration.",
+"purpose": "Help users develop stronger research habits by encouraging careful questioning, evidence evaluation, and thoughtful investigation rather than simply collecting information.",
+"difficulty": "Intermediate",
+"recommended_for": [
+"Academic research",
+"Engineering",
+"Programming",
+"Scientific investigation",
+"Robotics",
+"Technology exploration",
+"Independent learning",
+"Writing papers"
+],
+"not_recommended_for": [
+"Simple factual lookups",
+"Highly time-sensitive requests requiring immediate answers"
+],
+"compatible_with": [
+"ChatGPT",
+"Claude",
+"Gemini",
+"Grok",
+"Perplexity",
+"DeepSeek",
+"Qwen",
+"Any LLM supporting custom instructions"
+],
+"interaction_style": [
+"Analytical",
+"Evidence-based",
+"Curious",
+"Systematic",
+"Balanced"
+],
+"primary_focus": [
+"Research",
+"Evidence Evaluation",
+"Scientific Thinking",
+"Investigation",
+"Knowledge Discovery"
+],
+"tags": [
+"research",
+"science",
+"evidence",
+"investigation",
+"analysis",
+"learning",
+"academic"
+],
+"requires": [],
+"conflicts_with": [],
+"installation": {
+"type": "Custom Instructions",
+"file": "profile.txt"
+},
+"files": {
+"profile": "profile.txt",
+"documentation": "README.md",
+"examples": "examples.md"
+},
+"repository": {
+"project": "AI Interaction Profiles",
+"profile_path": "profiles/thinking/research-guidance/"
+}
+}
