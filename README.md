@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](#roadmap-summary)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 <br><br>
-[![Index](https://img.shields.io/badge/View_Profile_Index-333333?style=for-the-badge)](#)
+[![Index](https://img.shields.io/badge/View_Profile_Index-333333?style=for-the-badge)](profiles/index.md)
 
 AI Interaction Profiles is a research-inspired library of reusable behavior profiles for existing AI assistants. Instead of replacing ChatGPT, Claude, Gemini, or other tools, it explores how the interaction itself can be designed more carefully.
 
